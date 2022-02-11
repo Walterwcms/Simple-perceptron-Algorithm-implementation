@@ -1,3 +1,8 @@
+
+#
+#Autor: Walter dos Santos
+#
+
 entrada = [0,0]
 pesos =   [0,0]
 saida = 0
